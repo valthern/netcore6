@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "thQevlsM611lFoqs/GwxcE/+NOeIEK2bIXI1OQFu/vaIT08R/NZBPf4RS80mSPqJ5zDyHD7UQndTb56+WxxwHQ==",
+  "dgSpecHash": "TlgVoBjTEVDhT4bQ0BJPg88pxwmqba+Da/6mW1KyoQCqScjRojav1zLXHojAsJZxFB7XRlfA2KEtBzzWycjzGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omar\\source\\repos\\aspnetcore6\\FirstProject\\FirstProject.csproj",
+  "projectFilePath": "C:\\Users\\magno\\source\\ejemplos\\netcore6\\aspnet\\FirstProject\\FirstProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
